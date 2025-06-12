@@ -1,30 +1,33 @@
-# 💻 Malhar | AI & Backend Developer | Fresher @ Neebal Tech
+# 👨‍💻 Malhar | AI & Backend Developer | Fresher @ Neebal Tech
 
-👋 Hi, I'm Malhar — a fresher currently working at **Neebal Technologies**.  
-I'm passionate about **AI/ML**, and actively building skills around developing intelligent modules and systems.
+Hi there! I'm **Malhar**, currently a fresher at **Neebal Technologies**, working on AI modules and exploring the full potential of intelligent systems. I'm passionate about solving real-world problems using data and backend logic.
 
 ## 🚀 Tech Stack
-- **Languages:** Python, Bash
-- **Backend:** FastAPI, Flask, REST APIs
-- **DevOps:** Docker, GitHub Actions, CI/CD basics
-- **Data Analytics:** Pandas, NumPy, Excel automation, basic dashboards
+- **Languages:** Python, JavaScript (Node.js), Bash
+- **Backend Frameworks:** Django (primary), Flask, FastAPI, Express.js
+- **DevOps:** Docker, GitHub Actions, Nginx, CI/CD, Linux basics
+- **Data Analytics:** Pandas, NumPy, Matplotlib, basic reporting
+- **AI & ML:** Working with LLMs, building intelligent workflows
 
-## 🧠 Areas of Interest
-- Applied AI and fine-tuning LLMs
-- Backend architecture and API development
-- Automation & DevOps pipelines
-- Data-driven insights and reporting
+## 📊 Projects
+- 🧠 **AI Modules @ Neebal Tech** – Contributing to backend and model fine-tuning
+- 📈 **Algo Trading Framework** *(Final Year Project)* – Custom-built system for strategy testing and automated trading using Python
+
+## 🎯 Interests
+- AI model customization and deployment
+- Scalable backend architecture
+- Data-driven decision making
+- Automation, analytics & infra-as-code
 
 ## 🌱 Currently Learning
-- AI model fine-tuning and deployment workflows
-- Scalable backend design patterns
-- Terraform, Kubernetes (beginner level)
+- Fine-tuning LLMs and integrating with APIs
+- Kubernetes, Terraform (basics)
+- Advanced Django patterns and REST architecture
 
-## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/your-profile) *(update link)*
-- Email: youremail@domain.com *(optional)*
+## 📫 Let's connect
+- [LinkedIn](https://www.linkedin.com/in/malhar-bonde) 
+- Email: malhar.bonde@neebal.com
 
 ---
 
-> “Still learning, still building — one module at a time.”
-
+> “Code it. Break it. Learn it. Improve it.”
