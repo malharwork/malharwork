@@ -5,7 +5,7 @@ Hi there! I'm **Malhar**, currently a fresher at **Neebal Technologies**, workin
 ## 🚀 Tech Stack
 - **Languages:** Python, JavaScript (Node.js), Bash
 - **Backend Frameworks:** Django (primary), Flask, FastAPI, Express.js
-- **DevOps:** Docker, GitHub Actions, Nginx, CI/CD, Linux basics
+- **DevOps:** Docker, GitHub Actions, Nginx, CI/CD, Linux, Docker
 - **Data Analytics:** Pandas, NumPy, Matplotlib, basic reporting
 - **AI & ML:** Working with LLMs, building intelligent workflows
 
@@ -22,7 +22,6 @@ Hi there! I'm **Malhar**, currently a fresher at **Neebal Technologies**, workin
 ## 🌱 Currently Learning
 - Fine-tuning LLMs and integrating with APIs
 - Kubernetes, Terraform (basics)
-- Advanced Django patterns and REST architecture
 
 ## 📫 Let's connect
 - [LinkedIn](https://www.linkedin.com/in/malhar-bonde) 
